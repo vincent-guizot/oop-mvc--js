@@ -1,0 +1,17 @@
+[
+   {
+      "id": 1,
+      "name": "Civic 2023",
+      "type": "sedan"
+   },
+   {
+      "id": 2,
+      "name": "Colt pickup",
+      "type": "pickup"
+   },
+   {
+      "id": 5,
+      "name": "Brio All new",
+      "type": "lcgc"
+   }
+]
